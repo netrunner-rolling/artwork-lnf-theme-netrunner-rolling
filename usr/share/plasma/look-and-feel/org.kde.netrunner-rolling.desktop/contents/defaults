@@ -1,6 +1,9 @@
 [kdeglobals][General]
 ColorScheme=Carbon
 
+[kdeglobals][Icons]
+Theme=Numarceeze
+
 [kcminputrc][Mouse]
 cursorTheme=white-classicia++
 
