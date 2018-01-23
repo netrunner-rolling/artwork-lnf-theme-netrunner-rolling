@@ -9,3 +9,7 @@ Containment=org.kde.plasma.folder
 
 [plasmarc][Theme]
 name=BlackX
+
+[ksplashrc][KSplash]
+Engine=none
+Theme=None
