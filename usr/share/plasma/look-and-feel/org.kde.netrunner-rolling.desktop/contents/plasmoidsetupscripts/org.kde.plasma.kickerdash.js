@@ -3,7 +3,7 @@ applet.writeConfig("global", "Alt+F1")
 
 applet.currentConfigGroup = ["General"]
 applet.writeConfig("customButtonImage", "file:///usr/share/icons/hicolor/scalable/apps/homerun.svg")
-applet.writeConfig("favoriteApps", ["systemsettings.desktop", "org.kde.ksysguard.desktop", "org.kde.discover", "octopi.desktop"])
+applet.writeConfig("favoriteApps", ["org.kde.ksysguard.desktop", "systemsettings.desktop", "org.kde.discover", "octopi.desktop"])
 applet.writeConfig("limitDepth", true)
 applet.writeConfig("useCustomButtonImage", true)
 applet.writeConfig("alphaSort", true)

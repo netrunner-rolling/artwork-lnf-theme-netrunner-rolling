@@ -1,6 +1,13 @@
 [kdeglobals][General]
 ColorScheme=Carbon
 
+[kdeglobals][KDE]
+widgetStyle=breeze
+SingleClick=false
+
+[kdeglobals][Icons]
+Theme=breeze
+
 [kcminputrc][Mouse]
 cursorTheme=white-classicia++
 
