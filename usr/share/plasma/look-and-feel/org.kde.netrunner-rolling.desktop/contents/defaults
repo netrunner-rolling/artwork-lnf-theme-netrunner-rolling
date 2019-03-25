@@ -15,7 +15,7 @@ cursorTheme=white-classicia++
 Containment=org.kde.plasma.folder
 
 [plasmarc][Theme]
-name=breeze-alphablack
+name=BlackX
 
 [ksplashrc][KSplash]
 Engine=none
